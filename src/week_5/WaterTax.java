@@ -1,4 +1,4 @@
-package replit_tasks.week_5;
+package week_5;
 
 import java.util.Scanner;
 

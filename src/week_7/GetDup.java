@@ -1,4 +1,4 @@
-package replit_tasks.week_7;
+package week_7;
 
 public class GetDup {
     public static int getDup(String[] arr) {

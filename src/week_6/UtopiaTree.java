@@ -1,4 +1,4 @@
-package replit_tasks.week_6;
+package week_6;
 
 public class UtopiaTree {
     /*year 1 - growth 1 cm

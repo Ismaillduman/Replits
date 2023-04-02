@@ -1,4 +1,4 @@
-package replit_tasks.week_6;
+package week_6;
 
 public class PrintNumber {
     public static void main(String[] args) {

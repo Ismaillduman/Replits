@@ -1,4 +1,4 @@
-package replit_tasks.week_7;
+package week_7;
 
 public class FiveEachOther {
     public static void main(String[] args) {

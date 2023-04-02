@@ -1,4 +1,4 @@
-package replit_tasks.tasks_week_4;
+package tasks_week_4;
 
 import java.util.Arrays;
 import java.util.Scanner;

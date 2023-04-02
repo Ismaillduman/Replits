@@ -1,4 +1,4 @@
-package replit_tasks.week_8;
+package week_8;
 
 public class StringIsCharArray {
     public static void main(String[] args) {

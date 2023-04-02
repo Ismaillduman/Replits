@@ -1,4 +1,4 @@
-package replit_tasks.tasksweeks1_to_3;
+package tasksweeks1_to_3;
 
 public class Movie {
 
