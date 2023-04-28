@@ -17,7 +17,7 @@ nums → [1, 3, 5, 7, 9]) → 0
         int count=0;
         for (int eachNum : nums) {
             if(eachNum%2==0){
-                count++
+                count++;
             }
         }
         System.out.println(count);
