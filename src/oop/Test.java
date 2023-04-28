@@ -1,5 +1,7 @@
 package oop;
 
+import oop.item.Item;
+
 import java.util.Scanner;
 
 public class Test {
