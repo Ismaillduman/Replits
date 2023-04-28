@@ -1,4 +1,4 @@
-package oop;
+package oop.item;
 
 import oop.item.Item;
 
