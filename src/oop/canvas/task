@@ -1,0 +1,36 @@
+## There will be many files used in this practice. All the files needed are already created. Look on the left side to see all files. Follow the given instructions to create each file.
+
+### Create the `Quiz.java` file according to the following requirements.
+
+
+### Create the `File.java` file according to the following requirements.
+
+
+---
+###
+---
+### Create the `Canvas.java` file according to the following requirements.
+
+  - declare these `instance variables`:
+    - topic (String)
+    - quizzes (ArrayList of Quiz objects)
+    - modules (ArrayList of Module objects)
+
+  - create these `constructors` to initialize the variables:
+    - 1 argument (`String`): initialize the name and create an empty ArrayList of quizzes and modules
+    - 3 arguments(`String, ArrayList<Quiz>, and ArrayList<Module>`):
+    initialize the name and use the given ArrayLists to set up the starting values of all quizzers and modules
+
+  - create a `toString()` to print the Canvas objects in this format:
+    > $topic course
+    >
+    > Quizzes:
+    >
+    > [ArrayList of Quiz]
+    >
+    > Modules:
+    >
+    > [ArrayList of Module]
+---
+
+#### Main topics: class & object, instance variables, constructors, constructor chaining, ArrayList
