@@ -23,3 +23,5 @@ K
 src/group_tasks/week1/tasks,9\5\95ee2d8664a38ff8157d2dc7eacb8932284456c8
 `
 0src/group_tasks/week1/DivideWithoutOperator.java,0\a\0acb429055265fcf0b8deac0ebee928a8e5f98b5
+P
+ src/group_tasks/week1/FINRA.java,e\7\e75f9e5bd6123f48568b9843644b8531e3721630
